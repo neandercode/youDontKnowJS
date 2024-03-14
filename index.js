@@ -1,4 +1,4 @@
-let person = {
+const person = {
   name: "Pendejo",
   age: 35,
   occupation: "software developer",
